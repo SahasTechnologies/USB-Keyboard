@@ -1,4 +1,4 @@
-No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,LCSC Price
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,
 1,1,10uF,C4,C0805,10uF,0805X106K100CT,Walsin(华新科),C105505,LCSC,
 2,12,100nF,"C16,C17,C23,C25,C27,C28,C29,C30,C31,C32,C33,C36",C0402,100nF,CL05B104KB54PNC,SAMSUNG(三星),C307331,LCSC,
 3,2,1uF,"C24,C26",C0402,1uF,CL05A105KA5NQNC,SAMSUNG(三星),C52923,LCSC,
